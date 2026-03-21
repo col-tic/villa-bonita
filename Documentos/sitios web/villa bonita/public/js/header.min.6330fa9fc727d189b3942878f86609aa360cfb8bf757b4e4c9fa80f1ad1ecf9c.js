@@ -1,0 +1,1 @@
+const header=document.querySelector(".header-container"),logo=document.querySelector(".logo");let lastScroll=0;window.addEventListener("scroll",()=>{const e=window.scrollY;if(e===0){header.classList.remove("hide"),logo.style.height="90px",lastScroll=e;return}e>lastScroll?header.classList.add("hide"):(header.classList.remove("hide"),logo.style.height="55px"),lastScroll=e})
