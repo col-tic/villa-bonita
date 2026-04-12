@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Cafe villa bonita</title>
+    <link>https://cafevillabonita.com/</link>
+    <description>
+        
+           Café especial, ambiente acogedor y productos artesanales para disfrutar en cualquier momento del día.
+        
+    </description>
+    <language>es-CO</language>
+    <generator>Hugo</generator>
+    <lastBuildDate>Sun, 12 Apr 2026 01:11:56 -05</lastBuildDate>
+    <atom:link href="https://cafevillabonita.com/index.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Acerca de Nosotros</title>
+        <link>https://cafevillabonita.com/nosotros/</link>
+        <guid>https://cafevillabonita.com/nosotros/</guid>
+        <pubDate>Thu, 19 Mar 2026 00:00:00 UTC</pubDate>
+        <description>
+          
+            Somos una familia caficultora de Norte de Santander, Colombia, parte de las más de 500.000 familias cafeteras que han construido la tradición del café colombiano durante generaciones. Hace más de 50 años, nuestros abuelos comenzaron a cultivar café en los municipios de Toledo y Labateca, produciendo granos de alta calidad que eran vendidos en pergamino seco a las cooperativas de la región.
+          
+        </description>
+      </item>
+  </channel>
+</rss>
